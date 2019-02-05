@@ -60,6 +60,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\controller.cs" />
+    <Compile Include="Assets\Scripts\HUDFollow.cs" />
     <Compile Include="Assets\Scripts\rotateCoin.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>/Users/callahanhirrel/GitHub/Game-Dev-Lab-1/Game-Dev-Lab-1/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
